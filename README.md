@@ -1,12 +1,17 @@
 ## 📚 | Sobre a base de dados:
 A base de dados é consistida por hábitos de sono individuais, frequência cardíaca, lifestyle e outros aspectos relacionados com saúde do indivíduo.
+
 Referência: 
-https://www.kaggle.com/datasets/orvile/health-and-sleep-relation-2024
+https://www.kaggle.com/datasets/orvile/health-and-sleep-relation-2024/
+
+
+
 University of Oxford
 
 
 ## 🔧 | Tables da base de dados:
- 
+  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/Foto%201%20.png" align="center" alt="Python" width="500px">
+  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/foto%202.png" align="center" alt="Python" width="500px">
 
 
 ## 🔧 | Etapas:
@@ -39,24 +44,29 @@ cardíacas e derrames, depressão e aumento do risco de morte. Dormir menos de 7
 
 
 Referências:
-https://pubmed.ncbi.nlm.nih.gov/32207799/
-https://www.who.int/news-room/fact-sheets/detail/physical-activity
-https://pmc.ncbi.nlm.nih.gov/articles/PMC4442216/ 
+* https://pubmed.ncbi.nlm.nih.gov/32207799/
+* https://www.who.int/news-room/fact-sheets/detail/physical-activity
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC4442216/ 
 
+## 📃 | Para visualizar as consultas realizadas dentro do SSMS confira no link:
 
+https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/Health%20and%20sleep%20relation.pdf
 
 
 ##  ⭐| Recomendações: 
 Instituções governamentais
+
 1-	Como Ministério da Saúde juntamento com o Estado e municios devem promover mais conscientização sobre os benefícios de uma vida saudável e sono de qualidade, malefícios de uma vida sedentária e so através de eventos públicos, 
 marketing digital, universidades e espaços públicos.
+
 2-	Melhora na insfraestrutura de equipamentos para exercícios ao ar livre, disponibilizados em praças e ambientas públicos para um engajamento maior de pessoas que não possuem condições financeiras para frequentar academias ou similares.
+
 3-	Criação, manutenção constante e disponibilidade de horários das  Centro Municipal de Educação Avançada (CEMEA), espaço oferecido pela prefeitura que disponibiliza atividades físicas, artísticas e culturais gratuitas para a comunidade 
 e assim sua divulgação.
 
+--- 
 Instituições de saúde governamentais ou não
-1-	Empresas que são responsavéis por gerenciar instituições de saúde, precisam ter um acompanhamento mais próximo de seus colaboradores, para entenderem se sua saúde está em dia, assim consequentemente melhorando sua disposição e diversos 
-outros efeitos que são pertinentes.
+
 2-	Ambiente hospilar é comumente estressante. O objetivo é ofecer acesso facilitado a profissionais (psicólogos, terapeutas e grupos de apoio) que podem auxiliar esses profissionais que trabalham nestes ambientes ou até mesmo linha diretas 
 de suporte para emergências. O foco é na prevenção do burnout e no manejo adequeado da saúde mental, garatindo um espaço seguro e confortável para esses profissionais se expressarem e receber ajuda.
 
