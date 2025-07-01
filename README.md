@@ -8,12 +8,6 @@ https://www.kaggle.com/datasets/orvile/health-and-sleep-relation-2024/
 
 University of Oxford
 
-
-## 🔧 | Tables da base de dados:
-  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/Foto%201%20.png" align="center" alt="Python" width="500px">
-  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/foto%202.png" align="center" alt="Python" width="500px">
-
-
 ## 🔧 | Etapas:
 •	Normalização de tabelas, criação da tabela “Dim_people” com os seguintes atributos Person_ID; Gender; Age and Occupation.
 
@@ -23,6 +17,14 @@ University of Oxford
 •	Realização do Merge das colunas Gender; Age and Occupation para da tabela “Sleep_health_and_lifestyle_dataset”    para a tabela “Dim_People”
 
 •	Definição da Person_ID como primary key da tabela “Dim_People”
+
+
+
+
+## 🔧 | Tables da base de dados:
+  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/Foto%201%20.png" align="center" alt="Python" width="500px">
+  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/foto%202.png" align="center" alt="Python" width="500px">
+
 
 
 
