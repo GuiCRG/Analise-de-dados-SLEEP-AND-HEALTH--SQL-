@@ -22,8 +22,8 @@ University of Oxford
 
 
 ## 🔧 | Tables da base de dados:
-  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/Foto%201%20.png" align="center" alt="Python" width="500px">
-  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/foto%202.png" align="center" alt="Python" width="500px">
+  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/Images/Foto%201%20.png" align="center" alt="Python" width="500px">
+  <img src="https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/Images/foto%202.png" align="center" alt="Python" width="500px">
 
 
 
@@ -52,7 +52,7 @@ Referências:
 
 ## 📃 | Para visualizar as consultas realizadas dentro do SSMS confira no link:
 
-https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/Health%20and%20sleep%20relation.pdf
+<https://github.com/GuiCRG/Analise-de-dados-SLEEP-AND-HEALTH--SQL-/blob/main/PDFs/Consultas%20SQL.pdf>
 
 
 ##  ⭐| Recomendações: 
